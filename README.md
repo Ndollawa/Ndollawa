@@ -14,7 +14,7 @@ I'm <strong>Ndubuisi Ollawa</strong>
  
 - 📫 How to reach me **ndollawa@yahoo.com**
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="30" height="30" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="30" height="30" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="30" height="30" /></div>
+<!--<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="30" height="30" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="30" height="30" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="30" height="30" /></div>-->
 
 #### 🌐 Socials:
 <span>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ndollawa)</span><span>
@@ -42,6 +42,13 @@ I'm <strong>Ndubuisi Ollawa</strong>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ndollawa&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndollawa&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+<a href="https://github.com/ndollawa">
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndollawa&theme=2077" height="180em" /> -->
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndollawa&theme=2077" height="180em" /></a>
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ndollawa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -50,23 +57,6 @@ I'm <strong>Ndubuisi Ollawa</strong>
 
 
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndollawa&layout=compact&theme=" alt=ndollawa />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ndollawa&show_icons=true&locale=en&theme=" alt="ndollawa" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ndollawa&theme=" alt="ndollawa" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/ndollawa">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndollawa&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ndollawa&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndollawa&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndollawa&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndollawa&theme=2077" height="180em" /></a>
-</div>
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
