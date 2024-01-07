@@ -2,10 +2,10 @@
 I'm <strong>Ndubuisi Ollawa</strong>
 
 ### 💫 About Me:
-<p align="justify">I am a Software Developer with more than 6 years of hands-on expertise in programming, evaluating program efficacy, implementing system enhancements, and conducting security testing measures. My proficiency extends to both web and mobile system development, encompassing both frontend and backend domains. Proficient in utilizing MERN and LAMP stacks, I possess fluency in the English language and a track record of collaborating with diverse, international teams. I thrive as a solution-oriented thinker, adept at tackling intricate challenges with a strategic and analytical approach. Committed to delivering ambitious development goals within stringent timelines, all while maintaining an unwavering commitment to producing impeccable code.
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"></p>
+<p align="justify">I am a Software Developer with more than 6 years of hands-on expertise in programming, evaluating program efficacy, implementing system enhancements, and conducting security testing measures. My proficiency extends to both web and mobile system development, encompassing both frontend and backend domains. Proficient in utilizing MERN and LAMP stacks, I possess fluency in the English language and a track record of collaborating with diverse, international teams. I thrive as a solution-oriented thinker, adept at tackling intricate challenges with a strategic and analytical approach. Committed to delivering ambitious development goals within stringent timelines, all while maintaining an unwavering commitment to producing impeccable code.</p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-
+<div>
 - 🔭 I’m currently open to Offers 
 -  🌱 I’m currently learning **DevOps & Cloud Engineering**
 - 👨‍💻 All of my projects are available at [https://github.com/ndollawa](https://github.com/ndollawa)
@@ -13,7 +13,7 @@ I'm <strong>Ndubuisi Ollawa</strong>
 
  
 - 📫 How to reach me **ndollawa@yahoo.com**
-
+</>
 <!--<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="30" height="30" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="30" height="30" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="30" height="30" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="30" height="30" /></div>-->
 
 #### 🌐 Socials:
